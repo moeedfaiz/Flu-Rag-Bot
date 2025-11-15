@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "title": "Seasonal Influenza (Flu) \u2013 Structured Descriptive Dataset",
+    "version": "1.0",
+    "last_updated": "2025-11-15",
+    "sources": [
+      "World Health Organization (WHO) seasonal influenza fact sheet",
+      "US CDC \u2013 Signs and Symptoms of Flu",
+      "US CDC \u2013 People at Increased Risk of Flu Complications",
+      "US CDC \u2013 About Influenza (Flu)",
+      "Canada Public Health \u2013 Flu (Influenza) symptoms and treatment"
+    ]
+  },
+  "overview": {
+    "what_is_flu": "Seasonal influenza (flu) is an acute respiratory infection caused mainly by influenza A and B viruses. The virus infects the nose, throat and sometimes the lungs, leading to illness that can range from mild to severe and, in some cases, death.",
+    "key_points": [
+      "Flu spreads easily between people via respiratory droplets when an infected person coughs, sneezes, talks, or through contact with contaminated surfaces followed by touching the nose, mouth or eyes.",
+      "Flu seasons occur every year and can cause large numbers of illnesses, hospitalizations, and deaths worldwide.",
+      "Most healthy people recover in less than two weeks, but some develop serious complications such as pneumonia."
+    ]
+  },
+  "symptoms": {
+    "typical_onset": "Symptoms usually begin suddenly, often within 1\u20134 days after infection.",
+    "common_symptoms_adults": [
+      "Fever or feeling feverish/chills",
+      "Dry cough",
+      "Sore throat",
+      "Runny or stuffy nose",
+      "Muscle or body aches (myalgia)",
+      "Headache",
+      "Fatigue or extreme tiredness"
+    ],
+    "gastrointestinal_symptoms": [
+      "Nausea",
+      "Vomiting",
+      "Diarrhea (more common in children than adults)"
+    ],
+    "children_specific_notes": [
+      "Children may show irritability, poor feeding, and low activity.",
+      "Ear pain, vomiting and diarrhea are more commonly reported in children with flu than in adults."
+    ]
+  },
+  "course_and_contagiousness": {
+    "incubation_period": "Typically 1\u20134 days from infection to symptom onset.",
+    "contagious_period": "Most people are contagious from about 1 day before symptoms start and for up to 5\u20137 days after becoming sick. Children and people with weakened immune systems may be contagious for longer.",
+    "illness_duration": "Uncomplicated flu illness generally improves within a few days to less than two weeks, although cough and tiredness can last longer."
+  },
+  "high_risk_groups": {
+    "description": "Certain groups are more likely to develop severe illness or complications from flu infection.",
+    "groups": [
+      "Adults 65 years and older",
+      "Children younger than 5 years, especially those younger than 2 years",
+      "Pregnant people and those up to two weeks postpartum",
+      "People with chronic medical conditions such as asthma, COPD or other lung diseases",
+      "People with heart disease or history of stroke",
+      "People with diabetes or other metabolic disorders",
+      "People with kidney or liver disease",
+      "People with neurologic or neurodevelopmental conditions",
+      "People with blood disorders such as sickle cell disease",
+      "People with weakened immune systems due to disease or medication",
+      "People with obesity (high body mass index)",
+      "Residents of nursing homes and other long-term care facilities",
+      "Health-care workers and caregivers who may be frequently exposed"
+    ]
+  },
+  "complications": {
+    "common_complications": [
+      "Bronchitis (inflammation of the airways in the lungs)",
+      "Sinus infections",
+      "Ear infections",
+      "Worsening of chronic conditions such as asthma or heart disease"
+    ],
+    "severe_potential_complications": [
+      "Viral or bacterial pneumonia",
+      "Acute respiratory distress syndrome (ARDS)",
+      "Inflammation of the heart (myocarditis)",
+      "Inflammation of the brain (encephalitis) or muscles (myositis)",
+      "Sepsis and multi-organ failure",
+      "Death, particularly in high-risk groups"
+    ]
+  },
+  "red_flag_and_emergency_signs": {
+    "adults": [
+      "Difficulty breathing or shortness of breath",
+      "Pain or pressure in the chest or abdomen",
+      "Sudden dizziness, confusion, or difficulty waking up",
+      "Severe or persistent vomiting",
+      "Symptoms that improve but then return with fever and worse cough",
+      "Bluish lips or face",
+      "Signs of dehydration such as very little urine, very dry mouth or feeling extremely weak"
+    ],
+    "children": [
+      "Fast breathing or trouble breathing",
+      "Bluish or gray skin color (including lips)",
+      "Not drinking enough fluids or not making tears when crying",
+      "Not waking up or not interacting",
+      "Being so irritable that the child does not want to be held",
+      "Fever with rash",
+      "Flu-like symptoms that improve but then return with worse cough or high fever",
+      "Any fever in an infant younger than 3 months",
+      "Seizures or convulsions"
+    ],
+    "advice": "Anyone with these warning signs should seek urgent medical care or go to the emergency department immediately."
+  },
+  "prevention": {
+    "vaccination": {
+      "description": "Annual flu vaccination is the most effective way to reduce the risk of getting flu and severe outcomes.",
+      "recommended_groups": [
+        "Everyone aged 6 months and older, unless contraindicated",
+        "People at high risk of complications and their close contacts",
+        "Health-care workers, caregivers, and people who live with or care for high-risk individuals"
+      ]
+    },
+    "personal_measures": [
+      "Wash hands regularly with soap and water or use alcohol-based hand rubs.",
+      "Avoid close contact with people who are sick when possible.",
+      "Cover coughs and sneezes with a tissue or the elbow, not hands.",
+      "Avoid touching the face, especially eyes, nose and mouth.",
+      "Stay home from work, school or public places when sick.",
+      "Improve indoor ventilation and, in some settings, consider wearing a mask during peak flu season."
+    ]
+  },
+  "self_care_and_basic_treatment": {
+    "home_management": [
+      "Rest and drink plenty of fluids.",
+      "Use over-the-counter medicines such as pain relievers and fever reducers as appropriate and according to local guidance.",
+      "Avoid giving aspirin to children and teenagers due to the risk of Reye\u2019s syndrome.",
+      "Monitor for warning signs that symptoms are worsening or complications are developing."
+    ],
+    "antiviral_medicines_note": "In higher-risk patients and some others, health professionals may prescribe antiviral medicines which work best when started soon after symptom onset. Decisions about antivirals should always be made by a qualified health-care provider."
+  },
+  "when_to_seek_medical_care": {
+    "routine_medical_review": [
+      "If flu-like symptoms are severe or not improving after several days.",
+      "If a person is in a high-risk group and develops flu-like symptoms.",
+      "If there is uncertainty whether the illness is flu or another condition."
+    ],
+    "emergency_care": [
+      "Any of the red-flag signs listed above in adults or children.",
+      "Sudden confusion, difficulty speaking, or weakness on one side of the body.",
+      "Signs of breathing distress or chest pain.",
+      "Very high or persistent fever that does not respond to medication."
+    ]
+  }
+}
