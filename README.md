@@ -9,19 +9,19 @@ The bot:
 - Calls **Anthropic Claude** to generate natural language explanations
 - Runs in a **Streamlit chat UI**
 
-> ⚠️ **Important:** This is **not** a medical device and **not** a diagnosis tool.  
+>  **Important:** This is **not** a medical device and **not** a diagnosis tool.  
 > It is only for demonstration / educational purposes. Always consult a healthcare professional for real medical advice.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 💬 **Chatty interface**  
   - You can greet it (“hi”, “hello”), or say “my name is X”, and it replies like a normal chatbot.
-- 🦠 **Flu symptom helper**  
+-  **Flu symptom helper**  
   - Describe your symptoms (e.g. *“I have fever, dry cough and muscle aches since yesterday”*).  
   - The bot runs a **rule-based flu-likeness check** and explains if flu seems **likely / possible / unlikely** in words (no raw scores shown).
-- 📚 **RAG over flu knowledge**  
+-  **RAG over flu knowledge**  
   - A custom corpus (`flu_rag_corpus.jsonl`) with documents about:
     - Common flu symptoms
     - Flu vs cold vs allergies
@@ -29,13 +29,13 @@ The bot:
     - Red-flag/emergency symptoms
     - Prevention & self-care  
   - Stored in **ChromaDB** as a vector database, queried for each question/symptom message.
-- 🧠 **Claude-powered answers**  
+-  **Claude-powered answers**  
   - Uses the retrieved flu docs + the rule-based score as context
   - Claude generates a cautious, easy-to-understand explanation with a clear disclaimer.
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 High-level pipeline:
 
@@ -65,7 +65,7 @@ So you can talk about **RAG + vector DB + rule-based scoring + LLM** in your rep
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Backend / Logic**
   - Python 3.x
